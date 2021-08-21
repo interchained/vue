@@ -1,3 +1,3 @@
-module github.com/tendermint/vue
+module github.com/interchained/vue
 
 go 1.16
